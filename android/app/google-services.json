@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684919918940",
+    "firebase_url": "https://ninja-brew-crew-cd0b7.firebaseio.com",
+    "project_id": "ninja-brew-crew-cd0b7",
+    "storage_bucket": "ninja-brew-crew-cd0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684919918940:android:4a012e34341a7dd68db199",
+        "android_client_info": {
+          "package_name": "sherica.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684919918940-d23fpfccv6u8m43r1kbarq1olea8flcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu65kqrefUX2WewSr03OLOylbKDHZeL48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684919918940-d23fpfccv6u8m43r1kbarq1olea8flcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
